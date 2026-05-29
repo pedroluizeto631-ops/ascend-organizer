@@ -1,0 +1,27 @@
+{
+    "tema": "dark",
+    "monitorar_downloads": true,
+    "mostrar_logs": true,
+    "pastas": {
+      ".png": "Imagens",
+      ".jpg": "Imagens",
+      ".jpeg": "Imagens",
+      ".gif": "Imagens",
+  
+      ".mp4": "Videos",
+      ".mov": "Videos",
+      ".avi": "Videos",
+  
+      ".mp3": "Musicas",
+      ".wav": "Musicas",
+  
+      ".pdf": "PDFs",
+      ".docx": "Documentos",
+      ".txt": "Documentos",
+  
+      ".zip": "Compactados",
+      ".rar": "Compactados",
+  
+      ".exe": "Programas"
+    }
+  }
